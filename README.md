@@ -1,12 +1,14 @@
 ### Hello There, Welcome to my Github Profile Page! 👋
 
-- 🔭 I’m currently working on Discord.js
 - 🌱 I’m currently learning Front-End (Vue.js)
 - 👯 I’m looking to collaborate on a Amazing Discord.js Bot
 - 🤔 I’m looking for help with Front-End (Vue.js)
 - 💬 Ask me about Discord.js | Discord (app)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding on Sep 19th, 2019
+
+### Currently Working on:
+<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="" width="22px"> [Coding My Own Game!]
 
 ### Connect with me:
 
