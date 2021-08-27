@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JKane22&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdrianHDev)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JKane22)  
 
 
 ### Quick Facts about me:
