@@ -1,6 +1,7 @@
 ### Hello There, Welcome to my Github Profile Page! 👋
 
-### Here are some Stats about my Github
+
+### Here are some Stats about my Github: 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JKane22&show_icons=true&count_private=true)  
 
