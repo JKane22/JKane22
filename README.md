@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Front-End (Vue.js)
 - 💬 Ask me about Discord.js | Discord (app)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started coding in Sep 19th, 2019
+- ⚡ Fun fact: I started coding on Sep 19th, 2019
 
 ### Connect with me:
 
