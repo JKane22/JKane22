@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I started coding on Sep 19th, 2019
 
 ### Currently Working on:
-<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="" width="100%">
+<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="" width="50%">
 
 ### Connect with me:
 
