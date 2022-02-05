@@ -16,7 +16,7 @@
 - 😄 Pronouns: He/Him
 
 ### Currently Working On:
-- 💻 Streamify (Discord.js | Verison: 13.0.1)
+- 💻 StreamerLive (Discord.js)
 
 ### Connect with me:
 
