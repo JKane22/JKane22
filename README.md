@@ -16,7 +16,7 @@
 - 😄 Pronouns: He/Him
 
 ### Currently Working On:
-- 💻 StreamerLive (Discord.js)
+- 💻 Twitch Ad Block
 
 ### Connect with me:
 
