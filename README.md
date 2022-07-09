@@ -15,9 +15,6 @@
 - 💬 Ask me about Discord.js | Discord (app)
 - 😄 Pronouns: He/Him
 
-### Currently Working On:
-- 💻 Twitch Ad Block
-
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter Page](https://twitter.com/VIISSEEE)
