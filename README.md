@@ -11,6 +11,9 @@
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter Page](https://twitter.com/JereKane22)
 
+## MeloBot [Discord.js]
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ced0d7b5245e4a5698b582d50b64ab12)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 
 ### Tools and Languages I use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
